@@ -30,5 +30,5 @@ curl -i http://localhost:3000/data
 ```bash
 curl -X POST http://localhost:3000/data \
   -H "Content-Type: application/json" \
-  -d '{"name":"Artem","age":20}'
+  -d '{"name":"Karina","age":19}'
 ```
